@@ -13,7 +13,7 @@
 | 💳 Credit Risk Modelling | Predicts loan default (~0.94 recall) with real-time Streamlit app | Scikit-learn, Streamlit | https://github.com/Hritik123789/ML_project_credit_risk_model |
 | 🚗 Car Damage Detection | Deep learning model using transfer learning for vehicle damage classification | PyTorch, CNN | https://github.com/Hritik123789/Car-Damage-Detection-Project |
 | 🏥 Insurance Premium Predictor | ML-based web app predicting insurance costs | Scikit-learn, Streamlit | https://github.com/Hritik12389/ML_project_Insurance_premium_predictor_1 |
-| 🎮 LagSkillArena | AI-powered gameplay analysis with YOLOv8 + highlight generation | FastAPI, YOLOv8, React, MongoDB | https://github.com/Hritik123789/lagskill-arena |
+| 🎮 LagSkillArena | AI-powered gameplay analysis with YOLOv8 + highlight generation | FastAPI, YOLOv8 | https://github.com/Hritik123789/lagskill-arena |
 
 ---
 
