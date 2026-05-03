@@ -1,19 +1,43 @@
 # Hi, I'm Hritik 👋
 
-🎓 Third-year Computer Science & Data Science student  
-🤖 Interested in Machine Learning, AI systems, and real-world problem solving  
+🎓 Third-year Computer Science & Data Science student at Dwarkadas J. Sanghvi College of Engineering  
+🤖 Building Machine Learning, Computer Vision & Generative AI systems  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|------------|------|
-| Credit Risk Modelling | Predicted loan default probability (~0.94 recall), deployed Streamlit app | Python, Scikit-learn, Streamlit |
-| CityPulse (Multi-Agent AI) | Multi-agent AI system using AWS Bedrock + RAG for real-world data insights | AWS Bedrock, RAG |
-| Olympic Analytics App | Interactive dashboards for Olympic data | Streamlit, Plotly |
-| Weather Forecasting | ML-based weather prediction system | Python, ML |
-| Car Damage Detection | CNN + transfer learning for image classification | PyTorch, CNN |
+| Project | Description | Tech | Link |
+|--------|------------|------|------|
+| 🧠 CityPulse (Multi-Agent AI) | Multi-agent AI system using AWS Bedrock + RAG to analyze real-world data | AWS Bedrock, RAG | https://github.com/Hritik123789/amazon_nova_2 |
+| 🎮 LagSkillArena | AI-powered gameplay analysis with YOLOv8 + highlight generation | FastAPI, YOLOv8, React, MongoDB | https://github.com/Hritik123789/lagskill-arena |
+| 💳 Credit Risk Modelling | Predicts loan default (~0.94 recall) with real-time Streamlit app | Scikit-learn, Streamlit | https://github.com/Hritik123789/ML_project_credit_risk_model |
+| 🚗 Car Damage Detection | Deep learning model using transfer learning for vehicle damage classification | PyTorch, CNN | https://github.com/Hritik123789/Car-Damage-Detection-Project |
+| 🏥 Insurance Premium Predictor | ML-based web app predicting insurance costs | Scikit-learn, Streamlit | https://github.com/Hritik12389/ML_project_Insurance_premium_predictor_1 |
+
+---
+
+## 🔥 Highlight Project — CityPulse (Amazon Nova)
+
+Built a multi-agent AI system using Amazon Nova (Lite & Omni) via AWS Bedrock to analyze diverse real-world data sources including Reddit, news APIs, and government permit databases.
+
+Key capabilities:
+- 🧠 Multi-agent system for data ingestion, processing, and insight generation  
+- 🔍 NLP-based sentiment analysis and topic clustering  
+- 🔗 Retrieval-Augmented Generation (RAG) using Amazon Titan Embeddings  
+- 🎤 Voice-enabled assistant using Amazon Polly  
+- 🌐 Handles unstructured and multimodal real-world data  
+
+👉 Demonstrates real-world GenAI system design using LLMs + RAG + multi-agent architecture  
+
+---
+
+## 🧠 Core Focus
+
+- Machine Learning & Deep Learning  
+- Generative AI (RAG, Multi-Agent Systems)  
+- Computer Vision (YOLO, CNNs)  
+- Building end-to-end AI applications  
 
 ---
 
@@ -22,47 +46,34 @@
 | Category | Tools |
 |---------|------|
 | Languages | Python |
-| ML / AI | Scikit-learn, TensorFlow, PyTorch, NLP |
-| GenAI | RAG, AWS Bedrock, Multi-Agent Systems |
-| Web | Streamlit, FastAPI, Django |
+| ML / DL | Scikit-learn, TensorFlow, PyTorch |
+| Computer Vision | YOLOv8, OpenCV |
+| GenAI | AWS Bedrock, RAG, Multi-Agent Systems |
+| Backend | FastAPI, Django |
+| Frontend | React, TypeScript |
 | Data | Pandas, NumPy, Matplotlib |
-| Database | SQL |
+| Database | MongoDB, SQL |
 
 ---
 
 ## 🏆 Achievements
 
-- Top 10 Finalist — Hacknovate 6.0 (750+ teams)  
-- Top 16 Finalist — Business Venture Vault (TCET)  
-- Built “Opportunifyus” startup idea  
+- 🥇 Top 10 Finalist — Hacknovate 6.0 (750+ teams)  
+- 🏅 Top 16 Finalist — Business Venture Vault (TCET)  
 
 ---
 
 ## 📈 Currently Working On
 
-- Deep Learning  
-- Generative AI (RAG, agents)  
-- Backend (Django)  
+- Deep Learning & advanced ML  
+- Generative AI systems (RAG, agents)  
+- Building production-ready AI systems  
 
 ---
 
-## 🤝 Connect
+## 🔗 Connect
 
-- LinkedIn: [Hritik-Linkedin](https://www.linkedin.com/in/hritik-bhatt-dj/)  
-- Portfolio: [Hritik-Portfolio](https://codebasics.io/portfolio/Hritik-Rajan-Bhatt)
+- 🌐 Portfolio: https://codebasics.io/portfolio/Hritik-Rajan-Bhatt  
+- 💼 LinkedIn: https://www.linkedin.com/in/hritik-bhatt-dj/  
 
-⭐ Open to ML / Data Science internships
-<!--
-**Hritik123789/Hritik123789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Open to Machine Learning / Data Science internships
