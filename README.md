@@ -49,8 +49,8 @@
 
 ## 🤝 Connect
 
-- LinkedIn: [YOUR-LINK](https://www.linkedin.com/in/hritik-bhatt-dj/)  
-- Portfolio: [YOUR-LINK](https://codebasics.io/portfolio/Hritik-Rajan-Bhatt)
+- LinkedIn: [Hritik-Linkedin](https://www.linkedin.com/in/hritik-bhatt-dj/)  
+- Portfolio: [Hritik-Portfolio](https://codebasics.io/portfolio/Hritik-Rajan-Bhatt)
 
 ⭐ Open to ML / Data Science internships
 <!--
