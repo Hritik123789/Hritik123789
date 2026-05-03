@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Hritik 👋
 
 🎓 Third-year Computer Science & Data Science student  
