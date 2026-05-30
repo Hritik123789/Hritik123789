@@ -6,13 +6,12 @@
 ---
 
 ## 🚀 Featured Projects
-
 | Project | Description | Tech | Link |
 |--------|------------|------|------|
 | 🧠 CityPulse (Multi-Agent AI) | Multi-agent AI system using AWS Bedrock + RAG to analyze real-world data | AWS Bedrock, RAG | https://github.com/Hritik123789/amazon_nova_2 |
-| 💳 Credit Risk Modelling | Predicts loan default (~0.94 recall) with real-time Streamlit app | Scikit-learn, Streamlit | https://github.com/Hritik123789/ML_project_credit_risk_model |
+| 📈 Stock Anomaly Detector | Real-time LSTM Autoencoder detecting price anomalies via Finnhub WebSocket with FastAPI + Streamlit dashboard | PyTorch, FastAPI, Streamlit | https://github.com/Hritik123789/Stock_Anomally_detector |
+| 📊 Trader Sentiment Analysis | Analyzed 211K+ crypto trades against Bitcoin Fear & Greed Index with AWS Bedrock AI analyst | AWS Bedrock, Plotly, Streamlit | https://github.com/Hritik123789/trader-sentiment-analysis |
 | 🚗 Car Damage Detection | Deep learning model using transfer learning for vehicle damage classification | PyTorch, CNN | https://github.com/Hritik123789/Car-Damage-Detection-Project |
-| 🏥 Insurance Premium Predictor | ML-based web app predicting insurance costs | Scikit-learn, Streamlit | https://github.com/Hritik12389/ML_project_Insurance_premium_predictor_1 |
 | 🎮 LagSkillArena | AI-powered gameplay analysis with YOLOv8 + highlight generation | FastAPI, YOLOv8 | https://github.com/Hritik123789/lagskill-arena |
 
 ---
